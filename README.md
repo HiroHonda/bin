@@ -1,9 +1,5 @@
-bin
-===
-
 python scripts maintained by a lawyer practicing in family law in Tokyo
 
--- 
 Hirotaka Honda
 ParkAxis ShibuyaSakuragaoka South 801
 8-11  Sakuragaokacho, Shibuya-Ku
